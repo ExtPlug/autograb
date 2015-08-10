@@ -1,0 +1,20 @@
+{
+  "name": "extplug-autograb",
+  "version": "0.0.0",
+  "license": "MIT",
+  "description": "Grabs every song you hear automatically.",
+  "keywords": [
+    "extplug-plugin"
+  ],
+  "devDependencies": {
+    "del": "^1.2.0",
+    "gulp": "^3.9.0",
+    "gulp-babel": "^5.2.0",
+    "mkdirp": "^0.5.1",
+    "requirejs": "^2.1.20",
+    "run-sequence": "^1.1.2"
+  },
+  "scripts": {
+    "build": "gulp build"
+  }
+}
