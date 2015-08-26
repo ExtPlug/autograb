@@ -16,7 +16,7 @@ define(function (require, exports, module) {
         type: 'boolean',
         label: 'Stealth Mode',
         description: 'Grabs in secret, without showing the rest of the room.',
-        default: false
+        default: true
       },
       playlist: {
         type: 'playlist',
