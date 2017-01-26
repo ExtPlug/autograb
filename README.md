@@ -1,6 +1,8 @@
 Autograb
 ========
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/extplug/autograb.svg)](https://greenkeeper.io/)
+
 Grabs every song you hear automatically.
 
 ## Installation
